@@ -1,0 +1,9 @@
+@charset "utf-8";
+#heading {
+}
+#heading {
+    font-family: "仿宋", "华文彩云", "华文仿宋", "楷体", "华文细黑", "华文行楷", "华文隶书";
+    font-style: oblique;
+    font-size: x-large;
+    text-align: center;
+}
